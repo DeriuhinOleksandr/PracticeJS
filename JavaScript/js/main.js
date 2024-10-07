@@ -23,8 +23,30 @@
 //  j-=100;
 //}
 
-var x = 100;
+//var x = 100;
 
-do {
- console.log(x);
-} while(x<98);
+//do {
+// console.log(x);
+// x++;
+//} while(x<1000);
+
+// ВСПЛЫВАЮЩИЕ ОКНА
+
+//alert("Хоорошая очень погода !");
+//confitm("Вы сейчас дома ?")
+
+//var age = confirm("Тебе есть +18 ?");
+//if(age)
+
+//var data = prompt("Скажи сколько тебе лет");
+//console.log(data);
+
+//ФУНКЦИИ
+
+//function info(){
+//  console.log("Hi Barbie");
+//  console.log("!!!");
+
+//}
+
+//info();
